@@ -1,12 +1,4 @@
-
-@MrTecky 
-![Metrics](https://metrics.lecoq.io/MrTecky?template=classic&isocalendar=1&languages=1&habits=1&achievements=1&fortune=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Africa%2FJohannesburg&config.twemoji=true&config.octicon=true&config.display=columns)
-
-<a href="https://app.daily.dev/MrTecky"><img src="https://api.daily.dev/devcards/a725555dd0884265ae148437b4fb86f5.png?r=s9v" width="400" alt="Anro Kruger's Dev Card"/></a>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314hbmofj64lr7woox2phyu3uehy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-  
-### <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgZpLrPpVuNRRHjxCnJNMlCfv6DYViLvlal_jW_v089JNwnX49DBng5vcN1gMxuy-gpW9bjVLp002ZjcrucJIO6T7PQQ2y_WAAJMbeI8kIIlBATpA9RQUDtGAcGD49D-K2ZrdofjfhaPor2NdkQ0G7bXrcU6jvw8nOD7umPXAu6x5zX5gCilXPG6J/w200-h190/hand.gif" width="16"></a> <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0AazWRicbEGJhsUVvn5h2O7dgfgbCx8r8kdlPARaLm-iP4mDmwPOX6eVXSAjw9vepA6dlgUOBoycoe2tBTjp1bbrucEKE72RjNsUss65MkM_kQ_UXz50N63LrjphgZDUfjsmG35u0lDphkHw8LyKEILtDv2uc0kXRYTTn8YOfLAz7Rq7GRohsUof0/w200-h200/face.gif" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M Mr.Tecky‎ ‎ 🧑🏻‍💻✨
+‎ ‎‎ ‎HELLO WORLD, I'M Mr.Tecky‎ ‎ 🧑🏻‍💻✨
 ***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
 
 •‎ ‎Love making Game videos on [YouTube](https://www.youtube.com/@mr.deadlyrsa5670)<br>
@@ -55,22 +47,13 @@
     <!-- GitHub Top Language Card -->
     <td valign="top"><a href="https://bit.ly/3WHpenW"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTecky&layout=compact&hide_border=true&bg_color=00000000&theme=city_lights&langs_count=8"/></a></td>
   </tr></table></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314hbmofj64lr7woox2phyu3uehy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
-###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
-</details>
-</div>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-utsanjan/README.md at main · utsanjan/utsanjan 
+
+![Metrics](https://metrics.lecoq.io/MrTecky?template=classic&isocalendar=1&languages=1&habits=1&achievements=1&fortune=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Africa%2FJohannesburg&config.twemoji=true&config.octicon=true&config.display=columns)
+
+<a href="https://app.daily.dev/MrTecky"><img src="https://api.daily.dev/devcards/a725555dd0884265ae148437b4fb86f5.png?r=s9v" width="400" alt="Anro Kruger's Dev Card"/></a>
+
+
+### <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgZpLrPpVuNRRHjxCnJNMlCfv6DYViLvlal_jW_v089JNwnX49DBng5vcN1gMxuy-gpW9bjVLp002ZjcrucJIO6T7PQQ2y_WAAJMbeI8kIIlBATpA9RQUDtGAcGD49D-K2ZrdofjfhaPor2NdkQ0G7bXrcU6jvw8nOD7umPXAu6x5zX5gCilXPG6J/w200-h190/hand.gif" width="16"></a> <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0AazWRicbEGJhsUVvn5h2O7dgfgbCx8r8kdlPARaLm-iP4mDmwPOX6eVXSAjw9vepA6dlgUOBoycoe2tBTjp1bbrucEKE72RjNsUss65MkM_kQ_UXz50N63LrjphgZDUfjsmG35u0lDphkHw8LyKEILtDv2uc0kXRYTTn8YOfLAz7Rq7GRohsUof0/w200-h200/face.gif" width="18"/></a>
