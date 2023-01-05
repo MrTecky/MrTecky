@@ -18,7 +18,7 @@
 <details>
 <summary><h3>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 
-<a href="https://app.daily.dev/MrTecky"><img src="https://github.com/MrTecky/MrTecky/blob/main/devcard.svg" width="400" alt="MrTecky Dev Card"/>
+<a href="https://app.daily.dev/MrTecky"><img src="https://github.com/MrTecky/MrTecky/blob/main/devcard.svg" width="400" alt="Anro Kruger's Dev Card"/>
  </a>
 
 ## 🌎 ‎ ‎Social Media Handles
