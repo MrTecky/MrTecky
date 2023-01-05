@@ -9,7 +9,7 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mrtecky)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=plastic)](https://www.youtube.com/@mr.deadlyrsa5670)‎ ‎
 <br>
-[![GitHub User's visitors](https://komarev.com/ghpvc/?username=utsanjan&label=Profile%20views&color=129e00&style=plastic)](https://github.com/utsanjan#)
+[![GitHub User's visitors](https://komarev.com/ghpvc/?username=MrTecky&label=Profile%20views&color=129e00&style=plastic)](https://github.com/MrTecky#)
 </div>
 
 <div align="center"><br>
