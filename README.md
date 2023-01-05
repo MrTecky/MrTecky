@@ -1,20 +1,10 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@MrTecky 
-<a href="https://metrics.lecoq.io/MrTecky?template=classic&base.indepth=true&base.hireable=true&languages=1&stargazers=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=true&stargazers.worldmap.sample=0&fortune=false&config.timezone=Africa%2FJohannesburg&config.twemoji=true&config.octicon=true&config.display=columns&config.presets=%40lunar-red)
-"></a>
 
----
+@MrTecky 
+![Metrics](https://metrics.lecoq.io/MrTecky?template=classic&base.indepth=true&base.hireable=true&languages=1&stargazers=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=true&stargazers.worldmap.sample=0&fortune=false&config.timezone=Africa%2FJohannesburg&config.twemoji=true&config.octicon=true&config.display=columns&config.presets=%40lunar-red)
 
 <a href="https://app.daily.dev/MrTecky"><img src="https://api.daily.dev/devcards/a725555dd0884265ae148437b4fb86f5.png?r=s9v" width="400" alt="Anro Kruger's Dev Card"/></a>
-height="290px"/></a>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=314hbmofj64lr7woox2phyu3uehy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)"></a>
+
+<a href="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314hbmofj64lr7woox2phyu3uehy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)"></a>
   
 ### <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgZpLrPpVuNRRHjxCnJNMlCfv6DYViLvlal_jW_v089JNwnX49DBng5vcN1gMxuy-gpW9bjVLp002ZjcrucJIO6T7PQQ2y_WAAJMbeI8kIIlBATpA9RQUDtGAcGD49D-K2ZrdofjfhaPor2NdkQ0G7bXrcU6jvw8nOD7umPXAu6x5zX5gCilXPG6J/w200-h190/hand.gif" width="16"></a> <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0AazWRicbEGJhsUVvn5h2O7dgfgbCx8r8kdlPARaLm-iP4mDmwPOX6eVXSAjw9vepA6dlgUOBoycoe2tBTjp1bbrucEKE72RjNsUss65MkM_kQ_UXz50N63LrjphgZDUfjsmG35u0lDphkHw8LyKEILtDv2uc0kXRYTTn8YOfLAz7Rq7GRohsUof0/w200-h200/face.gif" width="18"/></a>‎ ‎‎ ‎HELLO WORLD, I'M Mr.Tecky‎ ‎ 🧑🏻‍💻✨
 ***HERE ARE SOME POINTS ABOUT ME & MY WORK***<br>
