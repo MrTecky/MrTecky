@@ -18,6 +18,9 @@
 <details>
 <summary><h3>‎ ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</h3></summary>
 
+<a href="https://app.daily.dev/MrTecky"><img src="https://github.com/MrTecky/MrTecky/blob/main/devcard.svg" width="400" alt="MrTecky Dev Card"/>
+ </a>
+
 ## 🌎 ‎ ‎Social Media Handles
 
 <a href="https://www.instagram.com/_anro_kruger_/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
@@ -51,8 +54,5 @@
   
 
 ![Metrics](https://metrics.lecoq.io/MrTecky?template=classic&isocalendar=1&languages=1&habits=1&achievements=1&fortune=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Africa%2FJohannesburg&config.twemoji=true&config.octicon=true&config.display=columns)
-
-<a href="https://app.daily.dev/MrTecky"><img src="https://github.com/MrTecky/MrTecky/blob/main/devcard.svg" width="400" alt="MrTecky Dev Card"/>
- </a>
 
 ### <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgZpLrPpVuNRRHjxCnJNMlCfv6DYViLvlal_jW_v089JNwnX49DBng5vcN1gMxuy-gpW9bjVLp002ZjcrucJIO6T7PQQ2y_WAAJMbeI8kIIlBATpA9RQUDtGAcGD49D-K2ZrdofjfhaPor2NdkQ0G7bXrcU6jvw8nOD7umPXAu6x5zX5gCilXPG6J/w200-h190/hand.gif" width="16"></a> <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0AazWRicbEGJhsUVvn5h2O7dgfgbCx8r8kdlPARaLm-iP4mDmwPOX6eVXSAjw9vepA6dlgUOBoycoe2tBTjp1bbrucEKE72RjNsUss65MkM_kQ_UXz50N63LrjphgZDUfjsmG35u0lDphkHw8LyKEILtDv2uc0kXRYTTn8YOfLAz7Rq7GRohsUof0/w200-h200/face.gif" width="18"/></a>
